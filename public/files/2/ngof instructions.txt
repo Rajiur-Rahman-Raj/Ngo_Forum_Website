@@ -1,0 +1,5 @@
+1. Global News 
+2. mission text hover will be lighter
+3. new menu our approach in who we are... will contain strategic issue and major compnonent and network
+4. about us will have core competencices
+5. strategic issue details will be in modal
